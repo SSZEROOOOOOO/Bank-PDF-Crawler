@@ -1,0 +1,5 @@
+pandas
+selenium
+tabula-py
+fuzzywuzzy
+webdriver_manager
